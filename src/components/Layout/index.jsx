@@ -1,7 +1,7 @@
 import './index.scss'
-
+import Slidebar from '../Slider'
 const Layout = () => {
-    return <>hello</>
+   return <> <Slidebar /> </>
 }
 
 export default Layout
